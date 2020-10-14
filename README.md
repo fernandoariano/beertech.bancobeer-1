@@ -1,4 +1,5 @@
-# beertech.bancobeer - GRUPO BECKS
+# beertech.bancobeer - GRUPO Colorado
+
 
 To run project, execute in root directory:
 docker-compose up
